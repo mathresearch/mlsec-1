@@ -6,3 +6,8 @@
 
 * Mark Stamp: Introduction to Machine Learning with Applications in Information Security, Chapman and Hall/CRC,  2017 (http://www.cs.sjsu.edu/~stamp/)
 
+* Michael A. Nielsen: "Neural Networks and Deep Learning", Determination Press, 2015. http://neuralnetworksanddeeplearning.com/
+
+* Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning, MIT Press, 2016. https://www.deeplearningbook.org/
+
+
