@@ -14,3 +14,9 @@ http://www.malwaredatascience.com
 * Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning, MIT Press, 2016. https://www.deeplearningbook.org
 
 
+## Tutorials
+
+### Numpy
+
+* https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+* http://cs231n.github.io/python-numpy-tutorial/
