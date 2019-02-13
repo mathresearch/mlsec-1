@@ -23,5 +23,5 @@ http://www.malwaredatascience.com
 ### Numpy
 
 * https://www.datacamp.com/community/tutorials/python-numpy-tutorial
-* [Numpy Cheat Sheet] https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
+* [Numpy Cheat Sheet] (https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 * http://cs231n.github.io/python-numpy-tutorial/
