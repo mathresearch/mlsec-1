@@ -5,7 +5,7 @@
 * Tom M. Mitchell: Machine Learning, McGraw Hill, 1997
 * Aurélien Géron: Hands-On Machine Learning with Scikit-Learn & Tensorflow, O’Reilly, 2017
 
-### Machnine Learning (INFOSEC related(
+### Machnine Learning (INFOSEC related)
 * Joshua Saxe, Hillary Sanders: Malware Data Science, no starch press, 2018
 http://www.malwaredatascience.com
 
