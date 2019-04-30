@@ -9,6 +9,8 @@
 * Joshua Saxe, Hillary Sanders: Malware Data Science, No Starch Press, 2018
 http://www.malwaredatascience.com
 
+* Joshua Saxe, Konstantin Berlin: [Deep Neural Network Based Malware Detection Using Two Dimensional Binary Program Features]( https://arxiv.org/abs/1508.03096)
+
 * Mark Stamp: Introduction to Machine Learning with Applications in Information Security, Chapman and Hall/CRC,  2017 http://www.cs.sjsu.edu/~stamp/ML
 
 
