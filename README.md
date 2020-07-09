@@ -19,6 +19,12 @@ http://www.malwaredatascience.com
 
 * Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning, MIT Press, 2016. https://www.deeplearningbook.org
 
+* @book{zhang2020dive,
+    title={Dive into Deep Learning},
+    author={Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola},
+    note={\url{https://d2l.ai}},
+    year={2020}
+}
 
 ## Tutorials
 
